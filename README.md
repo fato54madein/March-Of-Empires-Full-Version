@@ -237,4 +237,4 @@ This repository serves as the official landing page for March of Empires. The so
 **Get the most recent version of March of Empires today!**
 
 ---
-**Last updated:** 2026-10-16 17:10:37 UTC
+**Last updated:** 2026-10-16 20:23:54 UTC
